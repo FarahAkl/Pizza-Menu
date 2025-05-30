@@ -4,16 +4,16 @@ A simple and interactive Pizza Menu App built with **React**. Users can browse t
 
 ## 🚀 Features
 
-* Display a dynamic list of pizzas
-* Show ingredients and prices for each item
-* Visual indication for sold-out pizzas
-* Clean and responsive UI using modern React best practices
+- Display a dynamic list of pizzas
+- Show ingredients and prices for each item
+- Visual indication for sold-out pizzas
+- Clean and responsive UI using modern React best practices
 
 ## 🛠️ Built With
 
-* **React** (Functional Components and Hooks)
-* **CSS** for styling 
-* **JavaScript (ES6+)**
+- **React** (Functional Components and Hooks)
+- **CSS** for styling
+- **JavaScript (ES6+)**
 
 ## 📁 Project Structure
 
@@ -59,5 +59,8 @@ npm start
 
 ```
 
-The app will be available at `http://localhost:3000`.
+### Live demo
 
+to see the live demo [click here](https://pizza-menu-beta-five.vercel.app/)
+
+The app will be available at `http://localhost:3000`.
